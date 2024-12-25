@@ -1,0 +1,10 @@
+Activity Period,Operating Airline,Operating Airline IATA Code,Published Airline,Published Airline IATA Code,GEO Summary,GEO Region,Activity Type Code,Price Category Code,Terminal,Boarding Area,Passenger Count,Adjusted Activity Type Code,Adjusted Passenger Count,Year,Month
+200511,cathay pacific,cx,cathay pacific,cx,international,asia,deplaned,other,international,a,9990,deplaned,9990,2005,november
+200901,air new zealand,nz,air new zealand,nz,international,australia / oceania,deplaned,other,international,g,9993,deplaned,9993,2009,january
+201201,skywest airlines,oo,united airlines - pre 07/01/2013,ua,international,canada,enplaned,other,terminal 3,f,9998,enplaned,9998,2012,january
+201410,taca,ta,taca,ta,international,central america,deplaned,other,international,a,8970,deplaned,8970,2014,october
+200507,klm royal dutch airlines,kl,klm royal dutch airlines,kl,international,europe,deplaned,other,international,a,9978,deplaned,9978,2005,july
+201502,aeromexico,am,aeromexico,am,international,mexico,deplaned,other,international,a,9999,deplaned,9999,2015,february
+201207,emirates,ek,emirates,ek,international,middle east,deplaned,other,international,a,9981,deplaned,9981,2012,july
+201101,lan peru,lp,lan peru,lp,international,south america,deplaned,other,international,a,3685,deplaned,3685,2011,january
+200907,united airlines - pre 07/01/2013,ua,united airlines - pre 07/01/2013,ua,domestic,us,deplaned,other,international,g,9999,deplaned,9999,2009,july
